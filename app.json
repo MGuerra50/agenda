@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Minha Agenda",
+    "slug": "minha-agenda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/agenda-icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4841E8",
+        "foregroundImage": "./assets/agenda-adaptive.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/agenda-favicon.png",
+      "name": "Minha Agenda",
+      "shortName": "Minha Agenda"
+    },
+    "plugins": ["@react-native-community/datetimepicker", "expo-font"]
+  }
+}
