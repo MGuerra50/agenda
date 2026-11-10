@@ -117,11 +117,14 @@
 
 ## Capturas de tela
 
-- Calendário: adicionar a captura da tela com um dia selecionado e seus compromissos.
-- Compromissos: adicionar a captura da lista com o filtro Todos.
-- Novo compromisso: adicionar a captura do formulário preenchido antes de salvar.
-- Editar compromisso: adicionar a captura de um compromisso existente no formulário de edição.
-- Detalhes do compromisso: adicionar a captura com data, horário, categoria e demais dados.
-- Configurações: adicionar as capturas necessárias para mostrar todas as seções.
-- Perfil: adicionar a captura do diálogo de edição do nome.
-- Alerta de lembrete: adicionar a captura do aviso com a categoria, a borda colorida e os botões Ver compromisso e Fechar.
+<img width="1080" height="2340" alt="Screenshot_20261110_063128_Expo Go" src="https://github.com/user-attachments/assets/28a2765b-0f21-48a9-a4af-92324ff6ea41" />
+
+<img width="1080" height="2340" alt="Screenshot_20261110_063222_Expo Go" src="https://github.com/user-attachments/assets/ff862a51-bb46-43be-bdb3-385c9f8065e6" />
+
+<img width="1080" height="2340" alt="Screenshot_20261110_063344_Expo Go" src="https://github.com/user-attachments/assets/27a7b887-e8b0-4ecc-b269-c9ab533413c9" />
+
+<img width="1080" height="2340" alt="Screenshot_20261110_063302_Expo Go" src="https://github.com/user-attachments/assets/9f606632-e1cb-4929-bba4-f31ffc921067" />
+
+<img width="1080" height="2340" alt="Screenshot_20261110_070511_Expo Go" src="https://github.com/user-attachments/assets/08882f37-9794-49de-9715-e752f7635eb2" />
+
+<img width="1080" height="2340" alt="Screenshot_20261110_070527_Expo Go" src="https://github.com/user-attachments/assets/9ab5a358-37d7-49fb-9c78-a34cb5210557" />
